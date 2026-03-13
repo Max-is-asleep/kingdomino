@@ -1,2 +1,2 @@
 # kingdomino
-la super jeu
+le super jeu
