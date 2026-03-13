@@ -1,2 +1,0 @@
-# kingdomino
-le super jeu
